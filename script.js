@@ -13,3 +13,4 @@ $(document).ready(function(){
     })
 
 });
+<script src="script.js" charset = "utf-8"></script>
